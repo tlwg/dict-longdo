@@ -1,0 +1,19 @@
+Source: dict-longdo
+Section: text
+Priority: optional
+Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
+Build-Depends: debhelper (>= 5), autotools-dev
+Build-Depends-Indep: dictfmt, dictzip, perl
+Standards-Version: 3.7.2.2
+
+Package: dict-longdo
+Architecture: all
+Depends: dictd | dict-server
+Description: Longdo dictionary for dictd
+ This package contains data snapshot from Longdo, an on-line collaborative
+ English-Thai, German-Thai, French-Thai and Japanese-Thai dictionaries
+ development project. The data has been formatted  for use by the dictionary
+ server in the dictd package.
+ .
+ This package will be of limited use without the server found in the
+ dictd package.
