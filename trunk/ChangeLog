@@ -1,5 +1,9 @@
 2006-10-15  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* Makefile.am (EXTRA_DIST): Add parse_longdo.awk, longdo.info.
+
+2006-10-15  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* -longdo_en_th.c5: Remove excessive file.
 
 2006-10-15  Theppitak Karoonboonyanan  <thep@linux.thai.net>

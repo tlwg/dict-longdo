@@ -1,10 +1,13 @@
 LONGDO_SRC = \
-	longdo_de_th.txt \
-	longdo_en_th.txt \
-	longdo_fr_th.txt \
+	longdo_de_th.txt	\
+	longdo_en_th.txt	\
+	longdo_fr_th.txt	\
 	longdo_jp_th.txt
 
-EXTRA_DIST = $(LONGDO_SRC)
+EXTRA_DIST = \
+	longdo.info		\
+	parse_longdo.awk	\
+	$(LONGDO_SRC)
 
 dictdata_DATA = \
 	longdo_de_th.dict.dz	\
