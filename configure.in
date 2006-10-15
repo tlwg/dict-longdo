@@ -1,0 +1,31 @@
+dnl Process this file with autoconf to produce a configure script.
+AC_INIT(parse_longdo.pl)
+AM_INIT_AUTOMAKE(dict-longdo, `date +%Y%m%d`)
+
+dnl Checks for programs.
+AC_PROG_AWK
+AC_PROG_INSTALL
+AC_PROG_LN_S
+AC_PROG_MAKE_SET
+
+AC_ARG_WITH(dictdatadir,
+    [  --with-dictdatadir=DIR       dictionary data directory in DIR [PREFIX/lib/dict]],
+    [dictdatadir="$withval"], [dictdatadir=\$\{prefix\}/lib/dict])
+
+AC_SUBST(dictdatadir)
+
+AC_PATH_PROG(DICTZIP, dictzip, no)
+if test "x$DICTZIP" = "xno"; then
+   AC_MSG_ERROR([dictzip is needed])
+fi
+AC_SUBST(DICTZIP)
+
+AC_PATH_PROG(DICTFMT, dictfmt, no)
+if test "x$DICTFMT" = "xno"; then
+   AC_MSG_ERROR([dictfmt is needed])
+fi
+AC_SUBST(DICTFMT)
+
+AC_OUTPUT(	
+	Makefile  \
+)
