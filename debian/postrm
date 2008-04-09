@@ -24,7 +24,11 @@ case "$1" in
             /usr/sbin/dictdconfig -w
         fi
         if [ -x /etc/init.d/dictd ]; then
-            /usr/sbin/invoke-rc.d dictd restart
+            if which invoke-rc.d >/dev/null 2>&1; then
+                invoke-rc.d dictd restart
+            else
+                /etc/init.d/dictd restart
+            fi
         fi
 
         ;;
