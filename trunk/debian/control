@@ -2,9 +2,9 @@ Source: dict-longdo
 Section: text
 Priority: optional
 Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
-Build-Depends: debhelper (>= 5), autotools-dev
+Build-Depends: debhelper (>= 5)
 Build-Depends-Indep: dictfmt, dictzip, perl
-Standards-Version: 3.7.2.2
+Standards-Version: 3.7.3
 
 Package: dict-longdo
 Architecture: all

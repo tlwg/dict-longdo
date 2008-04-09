@@ -1,4 +1,20 @@
-dict-longdo (20061015-1) unstable; urgency=low
+dict-longdo (0.0.20080409-1) unstable; urgency=low
+
+  * New upstream release.
+  * Clear unnecessary build stuffs for platform-dependent materials
+    - debian/control: Drop build-dep on autotools-dev.
+    - debian/rules:
+      + Remove config.{guess,sub} replacement.
+      + Do not pass --build, --host configure arguments.
+  * debian/rules: Do not ignore 'make distclean' errors.
+  * debian/copyright: Rewrite in machine-interpretable format.
+  * debian/dirs: Remove, unneeded.
+  * debian/post{inst,rm}: Check for invoke-rc.d before calling.
+  * Bump Standards-Version to 3.7.3, no additional changes needed.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Wed, 09 Apr 2008 11:36:31 +0700
+
+dict-longdo (0.0.20061015-1) unstable; urgency=low
 
   * Initial release.
 

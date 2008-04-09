@@ -1,76 +1,73 @@
-This package was debianized by Theppitak Karoonboonyanan <thep@linux.thai.net> 
-on Sun, 15 Oct 2006 23:09:23 +0700.
+It was downloaded from http://dict.longdo.com/page/download
 
-It was downloaded from http://dict.longdo.com/?page=download
+Files: debian/*
+Copyright: © 2006-2008 Theppitak Karoonboonyanan <thep@linux.thai.net>
+License GPL-2+
+ This package was debianized by Theppitak Karoonboonyanan <thep@linux.thai.net> 
+ on Sun, 15 Oct 2006 23:09:23 +0700.
 
-Upstream Author: Metamedia Technology Co., Ltd.
-
-Copyright: (c) 2003 onwards by Metamedia Technology Co., Ltd.
-           All rights reserved.
-
-License:
-
-This contents is being provided to you by Metamedia Technology Co., Ltd. under
-the following license. By obtaining, using and/or copying this database, you
-agree that you have read, understood, and will comply with the following terms
-and conditions.
-
-Permission to use, copy, modify and distribute this database for
-any purpose and without fee or royalty is hereby granted, provided
-that you agree to comply with the following copyright notice and
-terms of use, including the disclaimer.
-
-Definitions
-(a)"MM" refers to Metamedia Technology Co., Ltd.
-
-Redistribution and, with or without modification, is
-permitted provided that all of the following conditions are met: 
-
-(a) Redistribution must retain this copyright notice and the disclaimer.
-
-(b) Any product, created and redistributed by you, which is composed of any
-part from Longdo dictionary contents must include the following
-acknowledgement: "This product is created by the adaptation of Longdo
-Dictionary by Metamedia Technology (http://dict.longdo.org/)." 
-
-(c) Products derived from the adaptation of Longdo must not be called "Longdo",
-nor may "Longdo" appear in their name, without prior written permission of
-Longdo Development Team.
-
-(d) You must not use "Longdo" in a manner likely to cause any damage to "MM" or
-third person. "MM" shall reserve our rights to demand any compensation,
-retaining fee, costs of action and execution, and expenses occured out of
-such manner.
-
-(e) Neither the name of "MM" nor the names of its contributors may be used to
-endorse or promote product derived from this software without specific prior
-written permission
-
-Disclaimer
-
-LONGDO DICTIONARY CONTENTS IS PROVIDED "AS IS".  ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
-EVENT SHALL LONGDO DEVELOPMENT TEAM OR LONGDO CONTRIBUTORS OR LONGDO APPROVERS
-OR OTHER VOLUNTEERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE
-CONTENTS, MATERIAL, OR PRODUCT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGE.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, LONGDO DEVELOPMENT TEAM
-MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR
-ANY PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED DATABASE WILL NOT
-INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
-
-Metamedia Technology Co., Ltd.
-Floor 1 Thanabutr Building, 931 Rama I Rd., Wangmai, Patumwan,
-Bangkok, 10330, Thailand
-http://www.mm.co.th/
+Files: *
+Copyright: © 2003 onwards by Metamedia Technology Co., Ltd.
+License: other
+ This contents is being provided to you by Metamedia Technology Co., Ltd. under
+ the following license. By obtaining, using and/or copying this database, you
+ agree that you have read, understood, and will comply with the following terms
+ and conditions.
+ .
+ Permission to use, copy, modify and distribute this database for
+ any purpose and without fee or royalty is hereby granted, provided
+ that you agree to comply with the following copyright notice and
+ terms of use, including the disclaimer.
+ .
+ Definitions
+ (a)"MM" refers to Metamedia Technology Co., Ltd.
+ .
+ Redistribution and, with or without modification, is
+ permitted provided that all of the following conditions are met: 
+ .
+ (a) Redistribution must retain this copyright notice and the disclaimer.
+ .
+ (b) Any product, created and redistributed by you, which is composed of any
+ part from Longdo dictionary contents must include the following
+ acknowledgement: "This product is created by the adaptation of Longdo
+ Dictionary by Metamedia Technology (http://dict.longdo.org/)." 
+ .
+ (c) Products derived from the adaptation of Longdo must not be called "Longdo",
+ nor may "Longdo" appear in their name, without prior written permission of
+ Longdo Development Team.
+ .
+ (d) You must not use "Longdo" in a manner likely to cause any damage to "MM" or
+ third person. "MM" shall reserve our rights to demand any compensation,
+ retaining fee, costs of action and execution, and expenses occured out of
+ such manner.
+ .
+ (e) Neither the name of "MM" nor the names of its contributors may be used to
+ endorse or promote product derived from this software without specific prior
+ written permission
+ .
+ Disclaimer
+ .
+ LONGDO DICTIONARY CONTENTS IS PROVIDED "AS IS".  ANY EXPRESS OR IMPLIED
+ WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+ EVENT SHALL LONGDO DEVELOPMENT TEAM OR LONGDO CONTRIBUTORS OR LONGDO APPROVERS
+ OR OTHER VOLUNTEERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+ PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE
+ CONTENTS, MATERIAL, OR PRODUCT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+ DAMAGE.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, LONGDO DEVELOPMENT TEAM
+ MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR
+ ANY PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED DATABASE WILL NOT
+ INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+ .
+ Metamedia Technology Co., Ltd.
+ Floor 1 Thanabutr Building, 931 Rama I Rd., Wangmai, Patumwan,
+ Bangkok, 10330, Thailand
+ http://www.mm.co.th/
 
 
-The Debian packaging is (C) 2006, Theppitak Karoonboonyanan
-<thep@linux.thai.net> and is licensed under the GPL, see
-`/usr/share/common-licenses/GPL'.
-
+On Debian systems, the complete text of the GNU General Public License,
+version 2, can be found in /usr/share/common-licenses/GPL-2.
