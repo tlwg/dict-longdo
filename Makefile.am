@@ -21,6 +21,11 @@ dictdata_DATA = \
 
 CLEANFILES = *.c5 *.dict *.dict.dz *.index
 
+update-data:
+	for f in longdo_{de,en,fr,jp}_th.txt; do \
+	  wget -O $(srcdir)/$$f http://dict.longdo.com/data/$$f; \
+	done
+
 SUFFIXES = .txt .c5 .dict .dict.dz
 
 .txt.c5:
@@ -58,3 +63,4 @@ longdo_jp_th.dict.dz: $(srcdir)/longdo.info longdo_jp_th.c5
 	  --allchars --utf8 longdo_jp_th
 	$(DICTZIP) longdo_jp_th.dict
 
+.PHONY: update-data
