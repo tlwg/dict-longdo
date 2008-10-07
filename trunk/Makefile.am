@@ -2,7 +2,8 @@ LONGDO_SRC = \
 	longdo_de_th.txt	\
 	longdo_en_th.txt	\
 	longdo_fr_th.txt	\
-	longdo_jp_th.txt
+	longdo_jp_th.txt	\
+	longdo_others.txt
 
 EXTRA_DIST = \
 	longdo.info		\
@@ -17,12 +18,14 @@ dictdata_DATA = \
 	longdo_fr_th.dict.dz	\
 	longdo_fr_th.index	\
 	longdo_jp_th.dict.dz	\
-	longdo_jp_th.index
+	longdo_jp_th.index	\
+	longdo_others.dict.dz	\
+	longdo_others.index
 
 CLEANFILES = *.c5 *.dict *.dict.dz *.index
 
 update-data:
-	for f in longdo_{de,en,fr,jp}_th.txt; do \
+	for f in $(LONGDO_SRC); do \
 	  wget -O $(srcdir)/$$f http://dict.longdo.com/data/$$f; \
 	done
 
@@ -62,5 +65,13 @@ longdo_jp_th.dict.dz: $(srcdir)/longdo.info longdo_jp_th.c5
 	  -s "Longdo Japanese-Thai Dictionary" --without-info \
 	  --allchars --utf8 longdo_jp_th
 	$(DICTZIP) longdo_jp_th.dict
+
+longdo_others.dict.dz: $(srcdir)/longdo.info longdo_others.c5
+	cat $^ | \
+	  $(DICTFMT) -c5 \
+	  -u http://dict.longdo.org/data/longdo_others.txt \
+	  -s "Other Longdo Dictionaries" --without-info \
+	  --allchars --utf8 longdo_others
+	$(DICTZIP) longdo_others.dict
 
 .PHONY: update-data

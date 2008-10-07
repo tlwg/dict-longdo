@@ -1,0 +1,5 @@
+4
+ciao [IT]	 [TH] (n ) สวัสดี ลาก่อน
+insalata [IT]	 [TH] (n ) สลัด
+ซอย [TH-NE-N]	 [TH] (vi vt ) ช่วย
+หรอย [TH-SOUTH]	 [TH] (adj ) อร่อย, สนุก

@@ -1,4 +1,4 @@
-3798
+3845
  Korkenzieher	(n) |der, pl. Korkenzieher| อุปกรณ์สำหรับเปิดจุกคอร์ก เช่น ขวดไวน์
 1.Geschoss	(n) |das| ชั้น 1 ในเยอรมนี ซึ่ง หมายถึงชั้น 2 ในเมืองไทย
 ab	ตั้งแต่
@@ -117,6 +117,7 @@ anderer	, Related: andere
 anderes	(Ind-pron.) , Related: ander 
 ändern	(vt)  |änderte, hat geändert| เปลี่ยนแปลง, Related: die Änderung 
 anders	(adv) ต่างไป, ที่แตกต่าง เช่น Ich denke anders. ฉันคิดต่างกัน
+anderthalb	หนึ่งครึ่ง (หรือ 1.5) เช่น Ich habe es in nur anderthalb Stunden herausgefunden.; Alle Mühen und Plagereien der letzten anderthalb Jahre haben sich gelohnt.
 Änderung	(n) |die, pl. Änderungen| การเปลี่ยนแปลง
 Anfang	(n) |der| การเริ่มต้น
 anfassen	(vt) |fasste/faßte an, hat angefassen/angefaßt| จับ, แตะต้อง, ฉวย เช่น Natur zum Anfassen., Man wird doch heute überall im Labor nur noch mit Handschuhen angefasst, oder nicht? , Related: S. ergreifen, berühren 
@@ -142,6 +143,7 @@ Anlass	(n) |der, pl. Anlässe| โอกาส, วาระพิเศษ เ�
 anlässlich	เนื่องในโอกาส เช่น Ich lade meine Schulkameraden zum Abendessen anlässlich meines 60. Geburtstages ein. ฉันชวนเพื่อนร่วมชั้นเรียนมาทานอาหารเย็นในโอกาสวันครบรอบวันเกิดที่ 60 ของฉัน
 anmachen	(vt) |machte an, hat angemacht, jmdn.| จีบ, เกี้ยวพาราสี เช่น Ich mag ihn nicht. Er macht alle Frauen an. ฉันไม่ชอบเขา เขาจีบผู้หญิงไปทั่ว
 anmachen	(vt) |machte an, hat angemacht, etw.(Essen)| คลุกเคล้าให้เข้ากันดี (คลุกเครื่องปรุงอาหาร) เช่น Er ist gleich fertig. Er muß nur noch den Salat anmachen. เขาเกือบเสร็จแล้ว เขาเพียงแต่ต้องคลุกสลัดเท่านั้น
+Anmeldeformular	(n) |das, pl. Anmeldeformular| แบบฟอร์ม, ใบสมัคร เช่น Bitte Anmeldeformular deutlich und gut lesbar ausfüllen! Denken Sie an eine Kopie für Ihre Unterlagen!
 annehmen	(vi) |nimmt an, nahm an, hat angenommen| ยอมรับด้วยดี, เห็นด้วย เช่น eine Bedingung annehmen ยอมรับเงื่อนไข
 annehmen	(vi) |nimmt an, nahm an, hat angenommen| คาดหรือคิดว่าเป็นเช่นนั้น เช่น Ich nehme an, sie würde dir helfen. ฉันคาดว่าหล่อนคงช่วยเธอ , Related: S. glauben, 
 anpassen	(vt) |paßte an, hat angepaßt| แก้ไขหรือปรับปรุงให้พอดี(เสื้อผ้า) เช่น die Hose des Kunden anpassen แก้ไขกางเกงของลูกค้าคนนี้
@@ -158,6 +160,7 @@ Ansicht	(n) |die, pl. Ansichten| ความเห็น
 Ansicht	(n) |die, pl. Ansichten| ภาพที่เห็น
 Anspannung	(n) |die, pl. Anspannungen| ความตึงเครียด, ความเครียด , Related: S.Anstrengung, Stress 
 ansprechen	(vt) |sprach an, hat angesprochen| ทัก, เอ่ย, พูดจาทักทาย เช่น Er hat als erstes mich auf der Party angesprochen. เขาเป็นคนแรกที่ทักฉันในงานเลี้ยง
+Anstalt	(n) |die, pl. Anstalten| สถาบัน, หน่วยงาน เช่น Zum Beispiel könnten fünf bis zehn Prozent des gesamten Gebührenaufkommens gleichmäßig auf alle ARD-Anstalten verteilt werden. , Related: S.das Institut 
 anständig	(adj) (คน)สุภาพ, เรียบร้อย, น่านับถือ , Related: A. gemein, 
 Ansteckung	(n) |die, pl. Ansteckungen| การติดเชื้อ
 anstellen	(vt) |stellte an, hat angestellt| แต่งตั้ง, จ้าง (งาน)
@@ -225,6 +228,7 @@ aufregend	(adj adv) ตื่นเต้น, เร้าใจ, Related: S. sp
 aufschreiben	(vi) |schrieb auf, hat aufgeschrieben| เขียนลงบนกระดาษ สลัก จารึก
 Aufschrift	(n) |die, pl. Aufschriften| ฉลากที่ติดตามขวดหรือห่อของ เช่น Die Aufschrift auf dem Karton lautet: Vorsicht Glas! ฉลากที่ข้างกล่องบอกว่า โปรดระวังแก้ว
 aufstehen	(vi) |stand auf, ist aufgestanden| ตื่นนอน, ลุกขึ้นจากที่นอน เช่น Meine Großmutter ist nie spät aufgestanden. คุณยายของฉันไม่เคยตื่นสายเลย, Related: Related: wach 
+aufstrebend	(adj) ที่มีความทะเยอทะยาน เช่น Sie sind aufstrebend, engagiert und dienstleistungsorientiert; zeichnen sich durch Flexibilität.
 Auftrag	(n) |der, pl. Aufträge| งาน (ที่จะให้ทำ)
 Auftrag	(n) |der, pl. Aufträge| ใบสั่งงาน, ใบมอบหมายงาน เช่น Der Schreiner hatte den Auftrag, den Stühl zu reparieren. ช่างไม้ได้รับใบสั่งงานให้ซ่อมเก้าอี้, James Bond hat einen Auftrag erhalten, eine Bombe zu entschärfen. เจมส์ บอนด์ ได้รับมอบหมายงานให้กู้ระเบิดลูกหนึ่ง
 Auftrag	(n) |der, pl. Aufträge| ใบสั่งสินค้า, ใบสั่งของ เช่น Auf diesem Auftrag müssen wir zehn Elektromotoren liefern.
@@ -263,15 +267,15 @@ ausländisch	(adj adv) ต่างประเทศ, ต่างแดน เ
 Ausnahme	(n) |die, pl. Ausnahmen| ข้อยกเว้น
 ausrasten	(vt) |rastete aus, ist ausgerastet| เสียสติ, ก้าวร้าววู่วามจากการไม่สามารถควบคุมอารมณ์ได้
 ausruhen	(vt) |ruhte aus, hat ausgeruht|  หยุดพัก(ดวงตา, ขา) เช่น Ich möchte gleich meine Augen ausruhen. ผมอยากพักสายตาสักเดี๋ยว
-ausschalten	(vt) |schalte aus, hat ausgeschaltet, etw.(A)| ปิด(อุปกรณ์ไฟฟ้า), ปิดไฟ เช่น Ulrike, darf ich den Ofen ausschalten? อูลริก้า ฉันขออนุญาติปิดเตาอบนะ, Related: S. ausmachen, A. einschalten, anmachen, 
+ausschalten	(vt) |schalte aus, hat ausgeschaltet, etw.(A)| ปิด(อุปกรณ์ไฟฟ้า), ปิดไฟ เช่น Ulrike, darf ich den Ofen ausschalten? อูลริก้า ฉันขออนุญาตปิดเตาอบนะ, Related: S. ausmachen, A. einschalten, anmachen, 
 ausschlafen	(vi) |schläft aus, schlief aus, hat ausgeschlafen| นอนหลับอย่างเพียงพอ เช่น Hast du gestern ausgeschlafen? เมื่อวานเธอนอนพอไหมจ๊ะ
 ausschließlich	(adj adv) เว้นไว้แต่, ซึ่งกีดกัน, ปราศจาก, ไร้ เช่น ausschließlich Mehrwertsteuer เว้นไว้แต่ภาษีมูลค่าเพิ่ม, Related: S. ohne,A. einschließlich, 
 ausschließlich	(adj adv) เฉพาะตัว, แต่ผู้เดียว, เพียง เช่น ausschließlich für den Zweck เพียงเพื่อจุดประสงค์นี้เท่านั้น , Related: S. nur, A. einschließlich, 
 aussehen	(vi) |sieht aus, sah aus, hat ausgesehen| ดูเหมือนว่า, ดูเหมือนจะ, ดู(เช่น ดูดี, ดูสดชื่น, ดูเศร้า) เช่น Er sieht heute sehr besorgt aus. วันนี้เขาดูมีความกังวลใจพิกลนะ
 ausserhalb	(prep) |+ G| นอกเหนือจากเวลาที่กล่าว หรือ นอกเหนือจากขอบเขตที่กล่าว   เช่น Ausserhalb der Hochsaison ist es hier sehr ruhig., Unser Arzt ist auch ausserhalb der Sprechzeiten telefonisch erreichbar., Diese Befugnisse liegen ausserhalb meines Kompetenzbereichs., Related: A. innerhalb, 
 Aussicht	(n) |die, pl. Aussichten| ทัศนียภาพ, โอกาส, ความหวัง, Related: S.die Sicht, die Chance, die Erwartung 
-Aussichtsturm	(n) |der, pl. Aussichtstürme| ตึกหรือหอสังเกตุการณ์
-Aussichtsturm	(n) |der, pl. Aussichtstürme| หอสังเกตุการณ์
+Aussichtsturm	(n) |der, pl. Aussichtstürme| ตึกหรือหอสังเกตการณ์
+Aussichtsturm	(n) |der, pl. Aussichtstürme| หอสังเกตการณ์
 ausspucken	(n slang) จ่ายเงิน (ความหมายตรงตัวคือ คายออกมา เอาออกมา)
 aussteigen	(vi) |stieg aus, ist ausgestiegen| ลงรถ, ลงจากเครื่องบิน
 aussteigen	(vi) |stieg aus, ist ausgestiegen| ก้าวลง, ถอนตัว, Related: der Ausstieg, der Rücktritt, zurücktreten 
@@ -308,6 +312,7 @@ Bau	(n) |der| การก่อสร้าง, โยธา
 Bauch	(n) |der, pl. Bäuche| ท้อง, พุง 
 bauen	(vt) |baute, hat gebaut| ก่อสร้าง, Related: konstruieren, anfertigen 
 Bauer	(n) |der, pl. Bauern| ชาวนา, เกษตรกร เช่น Bauern freuen sich auf Regen. เกษตรกรยินดีกับการมาของฝน
+Bäuerchen	(n) |das| การเรอ เช่น Lege Baby an zum Baeuerchen machen, was allerdings ein bissle auf sich warten laesst.
 Baukeramik	(n) |die, Sing.| ศิลปะการทำเครื่องเคลือบดินเผาในเชิงสถาปัตยกรรม
 Baukonstruktion	(n) |die, pl. Baukonstruktionen| วิชาโครงสร้างโยธาฯ, งานโครงสร้างโยธาฯ
 Baumwolle	(n) |die, pl. Baumwollen| ฝ้าย
@@ -330,8 +335,10 @@ befriedrigen	(vt) |befriedigte, hat befriedigt| ทำให้พอใจ เ�
 befugt	(adj) |zu etwas befugt sein| มีสิทธิหรืออำนาจในการกระทำการสิ่งใดสิ่งหนึ่ง   เช่น Ich bin nicht dazu befugt, Ihnen Aufkunft zu geben.  ฉันไม่มีอำนาจในการให้ข้อมูลคุณ
 Begabung	(n) |die, pl. Begabungen| พรสวรรค์, ความสามารถพิเศษ, Related: S. Talent, Related: begeben 
 begegnen	(vi) |begegnete, ist begegnet, mit jmdm.| พบหรือเจอโดยบังเอิญ เช่น Vorgestern bin ich im Aufzug meinem Chef begegnet. , Related: Related: treffen 
+Begegnung	(n) |die, pl. Begegnungen| การพบปะ, การเจอกันของคนสองคนหรือของกลุ่ม เช่น Hier ist ein Ort der Begegnung verschiedener Kulturen, wo Menschen sich kennen lernen können, um voneinander und miteinander zu lernen.
 begehren	(vt) |begehrte, hat begehrt| ต้องการมาก, อยากมี, อยากมีความสัมพันธ์ด้วย เช่น eine Frau begehren ต้องการอยากรู้จักผู้หญิงคนหนึ่ง, die Uhr begehren อยากได้นาฬิกาเรือนนี้มาก, Related: Related: begehrt 
 begehrt	(adj) เป็นที่ต้องการ, เป็นที่ดึงดูด เช่น ein begehrtes Reiseziel, ein begehrter Mann
+Begeisterung	(n) |die, pl. Begeisterungen| ความกระตือรือร้น ความศรัทธาอย่างแรงกล้า เช่น Der Dalai Lama ist zu Besuch in Deutschland und die Begeisterung ist dem religiösen Oberhaupt der Tibeter dabei sicher., Related: S.der Enthusiasmus  
 Beginn	(n) |der| การเริ่มต้น, จุดเริ่ม, Related: der Anfang 
 beginnen	(vi) |begann, hat begonnen| เริ่ม เช่น Das Wintersemester hat im Oktober begonnen. ภาคเรียนฤดูหนาวเริ่มเดือนตุลาคม, Related: anfangen 
 beginnen	(vi) |begann, hat begonnen| เริ่มต้นmit etwas beginnen; เช่น Der VfB Stuttgart hat mit einem 3:0 (drei zu null) Sieg gegen die Bayern in dieser Saison begonnen. ทีมชตุตการ์ทเริ่มต้นฤดูกาลนี้ด้วยชัยชนะเหนือทีมบาเยิร์น 3 ต่อ 0, Related: S. anfangen, starten, A. aufhören, abschliessen, beenden, Related: loslegen 
@@ -462,6 +469,7 @@ bleiben	อยู่ (ระยะเวลาสั้นกว่า wohnen)
 Bleistift	(n) |der, pl. Bleistifte| ดินสอ
 Bleistiftspritzer	(n) |der, pl. Bleistiftspritzer| กบเหลาดินสอ
 Blick	(n) |der| การจ้อง, การมอง, การส่งสายตา
+Blickwinkel	(n) |der, pl. Blickwinkel| มุมมอง, ฐานะที่ได้เปรียบกว่า, จุดที่มองได้กว้างขวางมากกว่า เช่น Immer wechselnde Ausstellungen zu den Themen 'Augen' und 'Sehen' lassen das Geschäft immer wieder aus einem anderen BLICKWINKEL erscheinen.
 blitzschnell	(adj) เร็วมาก เร็วดั่งสายฟ้าแลบ
 blockieren	(vt) |blockierte, hat blockiert| ขัดขวาง, Related: durchkreuzen, stören S. verhindern, 
 Blödsinn	(n) |der, nur Sg.| เรื่องไร้สาระ, งี่เง่า, Related: der Schwachsinn 
@@ -592,6 +600,7 @@ darüber hinaus	นอกเหนือจากนั้น, Related: S. ausse
 darum	ดังนั้น เช่น Er möchte reich werden. Darum muß er viel arbeiten. เขาอยากรวย เขาจึงขยันทำงาน, Related: S. daher, deshalb 
 darunter	ภายใต้สิ่งนั้นๆ หรือ ท่ามกลาง เช่น Du, vorher habe ich die Wäsche gewaschen. Darunter war deine auch drin. นี่เธอ ก่อนหน้านี้ฉันซักผ้า ท่ามกลางเสื้อผ้าเหล่านั้น มีของเธอด้วยนะ
 das	(Artikel) คำนำหน้านามเพศกลางที่เฉพาะเจาะจง (เหมือน the ในภาษาอังกฤษ) 
+das fünfte Rad am Wagen	(idiom) เหมือนเป็นส่วนเกิน เป็นคนที่ไม่สำคัญ เช่น Ich fühle mich wie das fünfte Rad am Wagen.
 Das ist mir Wurst!	(phrase) ช่างหัวมัน ไม่เห็นน่าสนใจ |หยาบเล็กน้อย|
 Das ist nicht mein Geschmack.	มันไม่ใช่รสนิยมของฉัน
 Das ist nicht mein Stil.	นี่มันไม่ใช่วิธี(สไตล์)ของฉันนะ
@@ -748,6 +757,7 @@ duschen	(vi) |(sich) duschte, hat (sich) geduscht| อาบน้ำ, Related: 
 Duschvorhang	(n) |der, pl. Duschvorhänge| ม่านอาบน้ำ, ม่านที่ใช้กับอ่างอาบน้ำ
 duzen	(vt) |duzte, hat geduzt, + jmdn.| พูดกับใครคนหนึ่งด้วย  du (เธอ) ใช้ภาษาเป็นกันเองไม่ใช้คำว่า Sie (คุณ) 
 duzen sich	(vt) พูดคุยกันด้วย du (เธอ) ใช้ภาษาเป็นกันเองไม่ใช้คำว่า Sie (คุณ) เช่น Er duzt sich mit seinem Professor. เขาพูด du กับศาสตราจารย์
+DVD-Spieler	(n ) |der, pl. DVD-Spieler| เครื่องเล่นดีวีดี
 eben	(Adv.) เพิ่งจะ เช่น Er ist eben weggelaufen. เขาเพิ่งจะเดินออกไปเอง, Related: S. erst 
 eben	(Adj.) เรียบ, ราบ, Related: S. flach 
 eben	เป็นคำที่ใช้เสริมเพื่อบ่งว่าต้องยอมรับเหตุการณ์นั้นๆ เช่น Er kann gar nicht schaffen. Er ist eben mein Bruder. เขาไม่เป็นโล้ไม่เป็นพาย อย่างนั้นก็เถอะเขาก็เป็นน้องชายของฉัน , Related: S. halt 
@@ -840,6 +850,7 @@ einwandfrei	(adj adv) ราบรื่น, ปราศจากปัญห�
 einweichen	(vt) |weichte ein, hat eingeweicht| ทำให้นุ่มโดยแช่ไว้ในน้ำ เช่น Klebreis, Gelatine einweichen แช่ข้าวเหนียว, เจลาตินในน้ำ
 Einweihung	(n) |die, pl. Einweihungen| พิธีฉลองขึ้นบ้านใหม่, Related: das Einweihungsfest 
 einzahlen	(vi) |zahlte ein, hat eingezahlt| ฝาก เช่น Geld einzahlen ฝากเงิน 
+Einzelhandelskette	(n) |die, pl. Einzelhandelketten| ร้านค้าขายปลีกในเครือหรือกลุ่มบริษัทเดียวกัน ตัวอย่าง ร้าน 7-11 เช่น In den Filialen der Einzelhandelskette Lidl wird ab kommenden Montag ein PC angeboten.; Die Einzelhandelsketten Lidl und Kaisers wollen im Herbst 2008 in den Verkauf von Fairtrade-Textilien einsteigen. 
 einzeln	(Adj. Adv.) แต่ละ, ที่เป็นเดี่ยวๆ, ที่แยกจากกัน เช่น Lautsprecher einzeln verkaufen ขายลำโพงแยกเป็นชิ้น
 einziehen	(vi) |zog ein, ist eingezogen| ย้ายเข้า, ตั้งถิ่นฐาน เช่น In welchem Haus ziehst du denn ein? เธอย้ายเข้าบ้านหลังไหนเอ่ย
 einzig	(Adj. Adv.) หนึ่งเดียวที่, เพียงหนึ่งเดียว เช่น Das ist ein einziger Teeladen in diesem Viertel. นี่เป็นร้านขายชาเพียงร้านเดียวในย่านนี้, Related: nur 
@@ -877,6 +888,7 @@ entdecken	(vt) |entdeckte, hat entdeckt| ค้นพบ (สิ่งที่�
 Entdeckung	(n) |die, pl. Entdeckungen| การค้นพบ, Related: das Entdecken 
 Entführung	(n) |die, pl. Entführungen| การลักพาตัว
 entlassen	(vt) |entließ, hat entlassen| ไล่ออก(จากงาน) เช่น Der Chef hat heute einen Angestellten entlassen. วันนี้หัวหน้าไล่พนักงานออกหนึ่งคน   , Related: S. jmdn. feuern, Related: kündigen, 
+entschärfen	(vt) |entschärfte, hat entschärft| ทำให้ใช้การไม่ได้ ทำให้หมดอันตราย เช่น Die Waffenruhe kann den Konflikt nicht entschärfen.; In der Nähe eines Herner Chemiewerkes wird an diesem Dienstag eine Fliegerbombe aus dem Zweiten Weltkrieg entschärft. 
 entscheiden	(vi) |entschied, hat entschieden| ตัดสินใจ
 entscheidend	(adj) เป็นตัวตัดสิน เช่น Das Tor ist entscheidend. การยิงฟุตบอลประตูนี้เป็นตัวตัดสินเกมส์นี้
 entscheidend	(adj) อย่างมาก, Related: sehr stark, massiv 
@@ -893,6 +905,7 @@ entwickeln	(vt) |entwickelte, hat entwickelt| พัฒนา, วิวัฒ�
 Entwicklung	(n) |die, pl. Entwicklungen| การพัฒนา
 Entwicklung	(n) |die, pl. Entwicklungen| วิวัฒนาการ, ความก้าวหน้า, การค่อย ๆ ปรากฎขึ้น, การเจริญเติบโต, ความเจริญรุ่งเรือง, วิวรรธน์, พัฒนา  
 Entwicklungen	(n) |pl.|, Related: Entwicklung 
+Entwicklungsland	(n) |das, pl. Entwicklungsländer| ประเทศที่กำลังพัฒนา เช่น „Deutschland ist im Hinblick auf die psychotraumatologische Forschung und Versorgung ein Entwicklungsland“, sagen die Experten. 
 Entzugsklinik	(n) |die, pl. Entzugskliniken| สถานพักฟื้น, สถานบำบัด เช่น Kaum hat Katja die Entzugsklinik in Arizona verlassen., Related: S. Rehabilitationsklinik, 
 Epidemie	(n) |die, pl. Epidemien| โรคระบาด
 er	(Pron.) เขา หรือ สรรพนามสำหรับคำนามเพศชายในรูปประธาน, Related: sie, es 
@@ -1099,6 +1112,7 @@ Fluchtgedanke	(n) |der| การคิดจะหลบหนี, Related: Ged
 flüchtig	(adj jargon) ที่ระเหยง่าย เช่น Aceton ist flüchtig im Vergleich zu Wasser. อะซิโทนเป็นสารที่ระเหยง่ายเมื่อเทียบกับน้ำ
 flüchtig	(adj) ซึ่งหายวับไป, ที่ผ่านไปอย่างรวดเร็ว, ประเดี๋ยวเดียว เช่น Sie kannte ihn flüchtig. หล่อนรู้จักเขาแค่ประเดี๋ยวเดียว
 Flug	(n) |der, pl. Flüge| เที่ยวบิน, ค่าเครื่องบิน  
+Flugblatt	(n) |das, pl.Flugblätter| ใบปลิว เช่น Hier finden Sie verschiedene Flugblatt- und Faxentwürfe, die Sie für streikunterstützende Aktionen verwenden können., Related: S.der Flyer 
 Flügel	(n) |der, pl. Flügel| เปียโนขนาดใหญ่(ที่มีฝาหรือปีกขนาดใหญ่), Related: R. Klavier 
 Fluggesellschaft	(n) |die, pl. Fluggesellschaften| สายการบิน เช่น Mit welche Fluggesellschaft fliegen Sie meistens? , Related: S. Fluglinie, 
 Flughafen	(n) |der, pl. Flughäfen| สนามบิน
@@ -1285,6 +1299,7 @@ Geräusch	(n) |das, pl. Geräusche| เสียงทั่วไป เช่�
 Gericht	(n) |das| ศาล
 Gericht	(n) |das, pl. Gerichte| อาหารในความหมายเป็นจานๆ เช่น Fleischgericht อาหารประเภทเนื้อ
 gern	(adj adv) |lieber, am liebsten| ชอบ, ด้วยความเต็มใจ, ด้วยความยินดี
+Gerste	(n ) |die, nur Sg.| ข้าวบาร์เลย์ เช่น Aus Gerste wird bei der Mälzung Malz gemacht. Enzyme verwandeln das keimende Getreide von Stärke zu Maltose-Zucker.
 gesamt	(adj) ทั้งหมด เช่น der gesamte Betrag ค่าโดยรวม, die gesamte Mitarbeiter พนักงานทั้งหมด
 gesamten	(adj) , Related: gesamt 
 Gesäß	(n) |das, pl. Gesäße| ก้น , Related: S. Po, 
@@ -1379,6 +1394,7 @@ grün	(adj) ที่มีสีเขียว
 Grund	(n) |der, pl. Gründe| เหตุผล
 Gründe	(n) |pl.|, Related: der Grund 
 Grundlagenvertrag	(n) |der, pl. Grundlagenverträge| ข้อตกลงพื้นฐาน เช่น Die Staats- und Regierungschefs der 27 EU-Mitgliedsstaaten hatten sich in der Nacht zum Samstag in Brüssel auf den Weg zu einem neuen Grundlagenvertrag als Ersatz für die gescheiterte EU-Verfassung verständigt.; Den Anstoß zu den Verhandlungen über den Grundlagenvertrag (
+Grundnahrungsmittel	(n) |der, pl. Grundnahrungsmittel| อาหารหลัก เช่น Schließlich wird das Bier häufig als Grundnahrungsmittel bezeichnet und als Kulturgut angesehen.
 Grünen	(n) |pl.| ชื่อพรรคการเมืองหนึ่งในเยอรมนี
 Gruppe	(n) |die, pl. Gruppen| กลุ่ม, หมู่, เหล่า
 Gruppen	(n) |pl.|, Related: die Gruppe 
@@ -1412,6 +1428,7 @@ haben	(vt) |hat, hatte, hat gehabt| มี เช่น Hast du Essen übrig? �
 haben	|ich habe, du  hast, er/sie/es hat, wir/sie/Sie haben, ihr/Ihr habt| เป็นกริยาช่วยในประโยคที่บ่งเหตุการณ์ในอดีตแบบ Perfekt โดยท้ายประโยคตามด้วยกริยารูปที่เรียกว่า Partizip 2 เช่น Ich habe gestern viel gearbeitet. เมื่อวานผมทำงานมาก 
 Habgier	(n) |die, nur Sg.| ความโลภ, ความละโมบ, ความตะกละ, ความอยากได้ , Related: S. die Habsucht, Related: habgierig 
 habgierig	(adj) ที่โลภ, ที่ละโมบ, ตะกละ
+Hafer	(n ) |der, nur Sg.| ข้าวโอ๊ต เช่น An Stelle der Gerste kann auch Weizen, Hafer, Roggen, Reis oder Mais als Grundlage für Bier dienen.
 Haftstrafe	(n) |die, pl. Haftstrafe| โทษต้องจำคุก, Related: S. Gefängnisstrafe, Freiheitsstrafe, A. Geldstrafe, 
 Hagel	(n) |der, nur Sg.| ลูกเห็บ(เม็ดน้ำแข็ง)ที่ตกลงมาจากฟ้า, Related: hageln vt. 
 hageln	(vt) |hagelte, hat gehagelt| Es hagelt. ลูกเห็บตก , Related: der Hagel 
@@ -1419,6 +1436,7 @@ Hagelschlag	(n) |der| การตกอย่างหนักของลู�
 Hähnchen	(n) |das, pl. Hähnchen| ไก่, Related: das Huhn 
 Haken	(n) |der, pl. Haken| ตะขอ, เบ็ด, เคียว
 Hälfte	(n) |die| ครึ่งหนึ่ง
+Hallo!	(phrase ) สวัสดี, Related: S. Guten Tag, Grüß Gott,  
 Hals über Kopf	(colloq) อย่างรวดเร็วผลีผลาม, Related: S. unüberlegt 
 Hals über Kopf	(phrase) หัวปักหัวปำ เช่น Sie verliebt sich Hals über Kopf in ihren unwiderstehlichen Nachbarn.
 Hals-Nasen-Ohren-Krankheit	(n) |die, pl. Hals-Nasen-Ohren-Krankheiten| โรคคอหูจมูก
@@ -1791,6 +1809,7 @@ Kautschuk	(n) |der, pl. Kautschuke| ยางพารา เช่น Die Synth
 kein	ไม่มี, ไม่ใช่
 Kein Wunder!	(phrase) ไม่เห็นแปลก ไม่น่าประหลาดใจ ไม่ใช่เรื่องประหลาด
 keine	, Related: kein 
+Keine Ursache.	(phrase  ) ไม่เป็นไร
 keinen	, Related: kein 
 keiner	, Related: kein 
 keineswegs	(adv) ไม่มีทาง, ไม่แน่นอน
@@ -1835,6 +1854,7 @@ kleinen	, Related: klein
 Kleingeld	(n) |das| เหรียญเงิน, Related: Münze 
 klicken	(vt) |klickte, hat geklickt| คลิ๊ก, กดนิ้วในจังหวะสั้น ๆ ลงบนปุ่มใดปุ่มหนึ่งของของเมาส์คอมพิวเตอร์ เช่น Klicken Sie hier!
 Klient	(n) |der, pl. Klienten| ลูกความ, Related: Klientin 
+Klient	(n) |der, pl. Klienten| ลูกความ เช่น Der Klient wechselt z.B. plötzlich das Thema, wird unruhig oder zieht sich in Schweigen. , Related: S.Mandant (pl. Mandanten), R.die Klientin 
 Klimaanlage	(n) |die, pl. Klimaanlagen| เครื่องปรับอากาศ , Related: die Heizung 
 klingen	(vi) |klang, hat geklungen| ส่งเสียงดังกังวาน
 Klinik	(n) |die, pl. Kliniken| โรงพยาบาลที่รักษาเฉพาะด้านใดด้านหนึ่ง เช่น Frauenklinik, Hautklinik
@@ -1851,6 +1871,7 @@ Knie	(n) |das, pl. Knie| หัวเข่า
 Knitterfalten	(n) รอยกางเกงหรือผ้ายับ, Related: Related: Falte 
 Knöchel	(n) |der, pl. Knöchel| ข้อเท้า
 Knochen	(n) |der, pl. Knochen| กระดูก
+Knolle	(n) |die, pl. Knollen| หัวใต้ดินของพืช (หัวมัน หัวเผือก) เช่น Nur die reifen Knollen sind für den Menschen essbar. Gefährlich wird es, wenn gelagerte Kartoffeln auskeimen., Related: S. Wurzelknolle 
 Knopf	(n) |der, pl. Knöpfe| ปุ่มกด ปุ่มหมุน
 Knopf	(n) |der, pl. Knöpfe| กระดุม
 knusprig	(adj) กรอบ เช่น knuspriger Keks คุ้กกี้ที่กรอบ 
@@ -1914,7 +1935,7 @@ Körperbehinderter	(n) คนพิการทางร่างกาย, Rela
 Körperteil	(n) |der, pl. Körperteile| ส่วนลำตัว เช่น แขน, ขา
 Korridor	(n) |der, pl. Korridore| ทางเดินในโรงแรม หรือ ในอาคาร หรือ ในบ้าน, Related: S. der Flur 
 Korruption	(n) |die, pl. Korruptionen| การโกงกินบ้านเมือง, การคอรัปชั่น, ความทุจริต, การรับสินบน, การติดสินบน, การฉ้อราษฎร์บังหลวง เช่น Das Wichtigste ist es derzeit meiner Ansicht nach, Ordnung zu schaffen, die Arbeitslosigkeit zu bekämpfen und gegen Korruption vorzugehen., Related: S. die Bestechung 
-Kost	(n) |die, nur Sg.| อาหาร (ภาษาค่อนข้างทางการ) เช่น Der Patient darf nur leichte Kost zu sich nehmen. คนไข้คนนี้ได้รับอนุญาติให้รับประทานอาหารอ่อนเท่านั้น  , Related: S. Essen, Nahrung, 
+Kost	(n) |die, nur Sg.| อาหาร (ภาษาค่อนข้างทางการ) เช่น Der Patient darf nur leichte Kost zu sich nehmen. คนไข้คนนี้ได้รับอนุญาตให้รับประทานอาหารอ่อนเท่านั้น  , Related: S. Essen, Nahrung, 
 kostbar	(adj) มีค่า เช่น Bitte halten ihre kostbaren Sachen bei sich., Related: die Kostbarkeit 
 Kostbarkeit	(n) |die, pl. Kostbarkeiten| ความล้ำค่า, ความมีค่า, คุณค่า
 Kosten	(n) |pl.| ต้นทุน, ค่าใช้จ่าย
@@ -1997,7 +2018,7 @@ Lärm	(n) |der, nur Sg.| เสียงรบกวน, Related: S. der Krach, 
 Lärmbelästigung	(n) |die, pl. Lärmbelästigungen| มลพิษทางเสียง, เสียงรบกวน เช่น Stete Lärmbelästigung macht krank.; Zur Vermeidung von Lärmbelästigungen dürfen Altglassammelbehälter nur. werktags in der Zeit von 7.00 Uhr bis 20.00 Uhr befüllt werden
 lassen	ยอมให้ (คล้าย let ในภาษาอังกฤษ) (กรณีกริยาช่วย)
 lassen	วางไว้ ปล่อยไว้ (คล้าย let ในภาษาอังกฤษ) (กรณีกริยาแท้) | ließ, gelassen |
-lassen	(vt) |läßt, ließ, hat gelassen, ตามด้วยกิริยาที่ไม่ผันรูป| อนุญาติ, ปล่อยให้ทำ เช่น Er läßt mich nicht weiter schlafen. เขาไม่ปล่อยให้ฉันนอนต่อ 
+lassen	(vt) |läßt, ließ, hat gelassen, ตามด้วยกิริยาที่ไม่ผันรูป| อนุญาต, ปล่อยให้ทำ เช่น Er läßt mich nicht weiter schlafen. เขาไม่ปล่อยให้ฉันนอนต่อ 
 lassen	|läßt, ließ, hat gelassen, ตามด้วยกิริยาที่ไม่ผันรูปท้ายประโยค| เป็นกริยาช่วยใช้บ่งว่า กรรมของประโยคถูกกระทำ ซึ่งเป็นอีกรูปหนึ่งของ Passivbildung เช่น Man ließ drei Häuser bauen. = Es wurden drei Häuser gebaut. 
 lästern	(vi) |lästerte, hat gelästert| นินทาเช่น über jemanden lästern = นินทาเกี่ยวใครบางคน
 Lastschrift	(n) |die, pl. Lastschriften| รายการของเงินที่ถูกหักจากบัญชี, Related: A. Gutschrift 
@@ -2094,6 +2115,7 @@ machen	ทำ |machte, gemacht|
 Machenschaft	(n) |die, pl.Machenschaften| เล่ห์เพทุบาย, เล่ห์่กลโกง, การคิดกลอุบาย
 Macht	(n) |die| อำนาจ, กำลัง (ทหาร)
 macht	, Related: machen 
+Macht nichts.	(phrase ) ไม่เป็นไร, Related: S.Das macht nichts.; Es macht nichts. 
 mächtig	(adj) ที่มีพละกำลัง, ที่มีอำนาจ, Related: S.stark, kraftvoll 
 Mädchen	(n) |das, pl. Mädchen| เด็กหญิง, สาวน้อย
 mag	, Related: mögen 
@@ -2173,6 +2195,7 @@ Mensch	(n) |der, pl. Menschen| มนุษย์
 Mensch	(n) |der, die Menschen| คน, ผู้คน, Related: die Leute 
 Menschen	(n) |pl.|, Related: der Mensch 
 Menschenrecht	(n) |das, pl. Meschenrechte| สิทธิมนุษยชน เช่น Das Menschenrecht auf Freiheit ist die Basis des Staates.
+Menschenrecht	(n) |das, pl. Menschenrechte| สิทธิมนุษยชน เช่น Gibt es ein Menschenrecht auf Wasser? Und wenn ja, wie kann dieses gestaltet werden?
 merken	(vt) |merkte, hat gemerkt| สังเกตเห็น , Related: beobachten 
 Messe	(n) |die, pl. Messen| ตลาดนัดประจำปี, นิทรรศการขนาดใหญ่มักเป็นการชุมนุมเพื่อเปิดตัวสินค้าหรือเทคโนโลยีใหม่ๆ 
 Messer	(n) |das, pl. Messer| มีด
@@ -2248,6 +2271,7 @@ Münchner	(n) |der, pl. Münchner| ชาวเมืองมิวนิค, R
 mundgerecht	(adj) พอดีคำ พอดีปาก
 mündlich	(adj adv) (การสอบ)ทางปาก,ที่เกี่ยวกับปาก,ที่เกี่ยวกับการสัมภาษณ์, Related: A. schriftlich, 
 mündliche Prüfung	(n) |die| ข้อสอบปากเปล่า, Related: A. die schriftliche Prüfung, 
+Münze	(n ) |die, pl. Münzen| เหรียญ เช่น "Der Rost macht erst die Münze wert" - Johann Wolfgang von Goethe, Faust II, Vers 8224 / Thales
 Münzen prägen	(vt) ผลิตเหรียญกษาปณ์, Related: Related: prägen 
 Musik	(n) |die, nur Sing.| ดนตรี
 Musiker	(n) |der, pl. Musiker| นักดนตรี , Related: Related: die Musikerin 
@@ -2273,6 +2297,7 @@ Nachfolger	(n) |der, pl. Nachfolger| ผู้รับช่วงต่อ, �
 nachgeben	(vt) |gibt nach, gab nach, hat nachgegeben| ยอมทำตาม, ยินยอมให้ 
 Nachhallzeit	(n) |die| ระยะเวลาที่ระดับความเข้มเสียงลดลง 60 เดซิเบล ในแต่ละความถี่
 Nachhilfe	(n) |die, pl. Nachhilfen| การเรียนพิเศษ เพื่อให้มีผลการเรียนดีขึ้น
+Nachkomme	(n) |der, pl. Nachkommen| ลูก ทายาทของสิ่งมีชีวิต เช่น Die Forscher gehen davon aus, dass die Muttertiere das Verhalten ihrer Nachkommen über die Abgabe unterschiedlicher Mengen von Sexualhormonen ins Ei beeinflussen können.
 nachlässig	(adv) |in etw.(D)| ละเลย เช่น Er ist nachlässig in seiner Kleidung. เขาละเลยเสื้อผ้าของเขา, Das Kind wurde nachlässig behandelt. เด็กคนนี้ถูกปล่อยปละละเลย
 nachmachen	(vt) |machte nach, hat nachgemacht, jmdm. etw.| ทำตาม, เลียนแบบ เช่น Kleine Kinder lernen viel, indem sie alles nachmachen. เด็กเล็กๆ เรียนรู้ได้มากโดยที่พวกเขาเลียนแบบทุกอย่าง, Related: S. imitieren, 
 Nachname	(n) |der, pl. Nachnamen| นามสกุล, Related: Related: Vorname, Spitzname 
@@ -2291,6 +2316,7 @@ Nagel	(n) |der, pl. Nägel| เล็บ
 nagelneu	(adj) ใหม่เอี่ยม, ใหม่จากโรงงาน (ต่างกับ neu ตรงที่ neu อาจหมายถึงของที่ใช้แล้วแต่เราเพิ่งซื้อมาใหม่ นั่นคือ ใหม่สำหรับเราคนเดียว), Related: Related: neu 
 nah	(adj adv) |näher, am nächsten| ใกล้, Related: A. weit, 
 Nähe	(n) |die, nur Sing.| ความใกล้, บริเวณใกล้เคียง เช่น in der Nähe von der Post 
+nahrhaft	(adj) ให้สารอาหาร, ที่เป็นแหล่งของสารอาหาร เช่น Spinne im Spinat. Insekten sind nahrhaft, eiweißreich und preisgünstig. Drei Kochbücher helfen bei ihrer Zubereitung. , Related: R.nahrhafter, am nahrhaftesten 
 Name	(n) |der, pl. Namen| ชื่อ
 Namenschild	(n) |das, pl. Namenschilder| ป้ายชื่อ, ป้ายประจำตัว, Related: S.Ausweis 
 nämlich	กล่าวคือ
@@ -2305,6 +2331,7 @@ neigen	(vt) |neigte, hat geneigt| เอน, เอียง, งอ, ก้ม 
 nennen	(vt) |nannte, hat genannt| ตั้งชื่อ, เรียกว่า เช่น Er nennt seinen Hund Poldi. เขาเรียกหมาของเขาว่าโพลดี้ 
 nennen	(vt) |nannte, hat genannt| ตั้งชื่อ, ให้ชื่อ เช่น Seine Mutter nennt ihn Otto. แม่ของเขาเรียกเขาว่าอ๊อตโต
 nennenswert	(adj) ที่น่าเอ่ยถึง, เป็นที่น่าพูดถึง เช่น Diese Woche hat sie keinen nennenswerten Fortschritt. อาทิตย์นี้เธอไม่มีผลงานความก้าวหน้าที่น่าเอ่ยถึงเลย, Related: S. erwähnenswert, 
+Nervenkitzel	(n) |der, pl. Nervenkitzel| สิ่งเร้าใจ, เรื่องที่น่าหวาดเสียว เช่น Fans von purer Action und Nervenkitzel sollten im Juni unbedingt AXN einschalten., Related: S. Erregung 
 Netto-	ปริมาณสุทธิ 
 Nettofüllmenge	(n) |die, pl. Nettofüllmengen| ปริมาณสอดไส้สุทธิ(ขนม)
 Nettoverdienst	(n) |der, pl. Nettoverdienste| รายได้สุทธิ (รายได้ หลังหักภาษี ค่าธรรมเนียม รวมทั้ง อากรณ์อื่นๆ ออกแล้ว), Related: A. Bruttoverdienst, 
@@ -2384,16 +2411,19 @@ original	(adj) ที่เป็นต้นแบบ, ต้นฉบับ, �
 originell	(adj) สร้างสรรค์, ประดิดประดอย เช่น Was für ein originelles Geschenk! ของขวัญอะไรเนี่ย ช่างสร้างสรรค์จริง, Related: S. kreativ, 
 Ort	(n) |der, pl. Orte| สถานที่
 Osten	(n) |der, nur Sing.| ทิศตะวันออก
+Ostermarsch	(n) |der, pl. Ostermarsche| การเดินขบวนในวันอีสเตอร์ เช่น Der erste Ostermarsch in Deutschland fand 1960 statt. Seither gehen jedes Jahr zu Ostern in verschiedenen Ländern Zehntausende von Menschen auf die Straße.
 Ostern	(n uniq) |das, pl. Ostern, ส่วนใหญ่ใช้เป็น Pl.| เทศกาลอีสเตอร์ มีความสำคัญทางศาสนาคริสต์ กล่าวคือ เป็นเทศกาลที่ชาวคริสต์ระลึกถึงการฟื้นคืนชีพของพระเยซู นอกจากนี้ Ostern ยังจัดเป็นเทศกาลฉลองความเขียวชอุ่มและความอุดุมสมบูรณ์ที่ฤดูใบไม้ผลินำมาด้วย 
 oval	(adj) ที่เป็นรูปวงรี เช่น Die Brillengläser sind oval.
 Ozean	(n) |der| มหาสมุทร
 paar	คู่ (สองสิ่ง)
 Pädophilie	(n) |die, pl. Pädophilien| พฤติกรรมกามวิปริตที่ชอบใช้เด็กเป็นเครื่องมือทางเพศ เช่น Die Ursache für Michaels Selbstmord sollen seine pädophilien Neigungen und seine unglückliche Spielleidenschaft gewesen sein. 
+Paella	(n ) |die, nur Sg.| อาหารประเภทหนึ่งของชาวสเปน ทำด้วยข้าวอบกับอาหารทะเล
 Palast	(n) |der, pl. Paläste| พระราชวัง, Related: Schloss, Burg 
 Panne	(n) |die, pl. Pannen| การที่รถเสียระหว่างการเดินทาง ทำให้ไม่สามารถเดินทางต่อไปได้เช่น Das Auto hatte eine Panne und musste abgeschleppt werden = รถเสีย และ ต้องถูกลาก(ไปอู่)  
 Panne	(n) |die, pl. Pannen| ข้อผิดพลาดหรือความขัดข้องทางเทคนิค เช่น  Bei dem Empfang gab es mehrere Pannen: erst funktionierte das Mikrofon des Redners nicht, und dann kam der Dolmetscher auch noch zu spät. = ระหว่างพิธีต้อนรับมีความขัดข้องทางเทคนิคเกิดขึ้นมากมาย ตอนแรกไมโครโฟนของพิธีกรไม่ทำงาน และล่าม(นักแปล)ยังมาสายอีกด้วย
 Pantoffel	(n) |der, pl. Pantoffeln| รองเท้าแตะที่ไว้ใส่ในบ้าน
 Panzer	(n) |der, pl. Panzer| รถถัง เช่น Am späten Abend waren die Panzer in der Hauptstadt Bangkok aufgefahren. Soldaten marschierten an strategisch wichtigen Punkten auf.
+Papayabaum	(n ) |der, pl. Papayabäume| ต้นมะละกอ เช่น Im Hintergrund sind die Bananenstauden sichtbar unten in der Mitte waechst ein neuer Papayabaum.
 Parallelschaltung	(n) |die, pl. Parallelschaltungen| การต่อวงจรไฟฟ้าแบบขนาน, Related: A. Reihenschaltung, 
 Parkett	(n) |das, pl. Parketts/Parkette| พื้นปาร์เก้, Related: der Boden 
 Parkplatz	(n) |der, pl. Parkplätze| ที่จอดรถ เช่น bewachter Parkplatz ที่จอดรถที่มียามเฝ้า
@@ -2570,6 +2600,7 @@ Rindfleisch	(n) |das| เนื้อวัว
 Risikofaktor	(n) |der, pl. Risikofaktoren| ปัจจัยการเสี่ยง
 robust	(adj) ทนทาน แข็งแรง, Related: dauerhaft 
 Rock	(n) |der, pl. Röcke| กระโปรง
+Roggen	(n ) ข้าวไร เช่น Heute habe ich einen Sauerteig aus Weizen, Roggen und Wasser.
 Rolle	(n) |die, pl. Rollen| บทบาท
 rollen	(vt) |rollte, hat/ist gerollt, etw.(A)| ม้วน หมุน พัน เช่น das Fleisch in Zeitungspapier rollen ห่อพันเนื้อด้วยกระดาษหนังสือพิมพ์, Related: S. einwickeln, 
 Rollschuhe	(n) |die, pl. Rollschuhen| รองเท้าสเก็ต
@@ -2637,6 +2668,7 @@ Schale	(n) |die, pl. Schalen| ชาม, Related: Schüssel
 schälen	(vt) |schälte, hat geschält, etw.(A)| ปอกเปลือก เช่น Kartoffeln wurden geschält. มันฝรั่งถูกปอกเปลือก
 Schall	(n) |der, nur Sing.| เสียง (เรียกในเชิงวิทยาศาสตร์) เช่น die Schallwelle คลื่นเสียง, Related: die Stimme, das Geräusch 
 Schallgeschwindigkeit	(n) |die| ความเร็วเสียง
+Schaltjahr	(n ) ปีอธิกสุรทิน
 Schamgegend	(n) |die, nur Sg.| บริเวณหัวหน่าว
 schamlos	(adj) ไม่มียางอาย, ไม่มีความอาย
 Schatz	(n) |der, pl. Schätze| ขุมทรัพย์
@@ -2820,7 +2852,7 @@ sich ändern	(vt) |änderte sich, hat sich geändert| เปลี่ยนแ�
 sich auf den Weg machen	เริ่มออกเดินทาง เช่น Wir machen uns auf den Weg nach Paris um sechs. พวกเราเริ่มออกเดินทางไปปารีสตอนหกโมง , Related: S. starten, aufbrechen, fortgehen, 
 sich ausruhen	(vt) |ruhte sich aus, hat sich ausgeruht| พักจากความเหนื่อยล้า, พักเหนื่อย(จากการทำงานหรือจากความเครียด)  , Related: Related: sich erholen 
 sich ausziehen	(vt) |zog sich aus, hat sich ausgezogen| ถอดเสื้อผ้า 
-sich äußern	(vt) |äußerte sich, hat sich geäußert| พูด หรือ แสดงความคิดเห็น เช่น Ich möchte mich über unsere Teamarbeit äußern. = ผมอยากจะแสดงความเห็นในเรื่องงานที่เราทำด้วยกัน หรือ งานกลุ่ม ( กริยา ตามด้วย กรรมตรง เช่น mich ในประโยคตัวอย่าง ), Related: S. die Meinung sagen, meinen, sagen, das Gefühl erklären, die Meinung geben, A. schweigen,still sein, 
+sich äußern	(vt) |äußerte sich, hat sich geäußert| พูด หรือ แสดงความคิดเห็น เช่น Ich möchte mich über unsere Teamarbeit äußern. = ผมอยากจะแสดงความเห็นในเรื่องงานที่เราทำด้วยกัน หรือ งานกลุ่ม ( กริยา ตามด้วย กรรมตรง เช่น mich ในประโยคตัวอย่าง ), Related: S. die Meinung sagen, meinen, sagen, das Gefühl erklären, die Meinung geben, A. schw 
 sich balgen	(vt) |balgte sich, hat sich gebalgt, um/mit| แย่งชิง, ดิ้นรน, ต่อสู้, Related: S. ringen, sich raufen 
 sich bedanken	(vt) |bedankte sich, hat sich bedankt| (+ bei jmdm für etw.) ขอบคุณ, ขอบใจ เช่น Er hat sich bei mir für meinen Rat bedankt. เขาขอบคุณฉันสำหรับคำแนะนำของฉัน, Related: S. danken, 
 sich befriedigen	(vt) |befriedigte sich, hat sich befriedigt| สำเร็จความใครด้วยตัวเอง, Related: S. onanieren, masturbieren 
@@ -2948,11 +2980,13 @@ SPD	ชื่อพรรคการเมืองหนึ่งในเย�
 Spedition	(n) |die, pl. Speditionen| บริษัทรับจ้างขนส่งสินค้าหรือสิ่งของ, การขนส่งของ 
 speichern	(vt) |speicherte, hat gespeichert| เก็บหรือบันทึกข้อมูล ส่วนใหญ่หมายถึงในคอมพิวเตอร์ เช่น Telefondaten dürfen zwei Jahre gespeichert werden.
 Speisewagen	(n) |der, pl. Speisewagen| รถเสบียง, ตู้รถไฟที่ขายอาหาร
+Spiegel	(n ) |der, pl. Spiegel| กระจกเงา เช่น Wie findest du dich in diesem Spiegel?
 Spiel	(n) |das, pl. Spiele| เกม, การละเล่น
 spielen	เล่น |spilete, gespielt|
 Spieler	(n) |der, pl. Spieler| ผู้เล่น
 spielt	, Related: spielen 
 Spielzeug	(n) |das, nur Sg.| เครื่องเล่น, ของเล่น
+Spielzeug	(n) |das, nur Sg.| ของเล่น (ของเด็กๆ) เช่น Er sammelt viel Kleingeld um Spielzeug zu kaufen. (เขาเก็บสะสมเหรียญไว้เป็นจำนวนมากเพื่อที่จะนำมาซื้อของเล่น); Elektronisches Spielzeug ist heutzutage etwas billiger als früher. (ปัจจุบันนี้เครื่องเล่นอิเล็คทรอนิกมีราคาถูกกว่าเมื่อก่อนมาก)
 spießig	(adj) เป็นคำขยายคนที่ชอบทำตัวเป็นนักอนุรักษ์นิยมหรือคิดว่าสิ่งที่ตนทำนั้นสำคัญมาก
 Spinat	(n) |der, pl. Spinate| ผักโขม
 Spind	(n) |der, pl. Spinde| ตู้ใส่ของตามมหาวิทยาลัย, ล็อกเกอร์, Related: S. Schließfach, 
@@ -3031,6 +3065,7 @@ steuern	(vt) |steuerte, hat gesteuert| ควบคุมให้เป็น�
 Stickstoff	(techn.) |der, nur Sg.| ธาตุไนโตรเจน (เคมี)
 Stiefel	(n) |der, pl. Stiefel| รองเท้าบูท
 Stift	(n) |der, pl. Stifte| ปากกา
+Stift	(n ) ปากกา, Related: S. Füller, Kugelschreiber,  
 Stil	(n) |der, pl. Stile| สไตล์หรือลักษณะวิธีการพูดหรือเขียนเฉพาะบุคคล เช่น Sie hat einen lebendigen Stil beim Sprechen. เธอคนนี้มีวิธีการพูดที่มีชีวิตชีวา
 Stimme	(n) |die, pl. Stimmen| เสียงคนพูด, Related: der Schall, das Geräusch 
 Stimme	(n) |die, pl. Stimmen| คะแนนเสียง
@@ -3048,6 +3083,7 @@ stoßen	(vi) |stößt, stieß, ist gestoßen, + an/gegen jmdn./etw.| เดิ�
 stoßen	(vt) |stößt, stieß, hat gestoßen, + jmdn. irgendwohin| ชนหรือกระแทกคนใดคนหนึ่งด้วยอวัยวะของตน เช่น Sie hat mich mit der Schulter gestoßen. ไหล่ของหล่อนมากระแทกฉัน 
 Stoßstange	(n) |die, pl. Stoßstangen| กันชนของรถยนต์
 straff	(adj) |straffer, straffst| แน่น, ทรงตัว, ตึง, แข็งแรง เช่น straffe Haut ผิวที่แข็งแรง
+Straftat	(n) |die, nur Sg.| อาชญากรรม เช่น Du bist Opfer einer Straftat.; Bist du durch eine Straftat verletzt?
 Strand	(n) |der, pl. Strände| ชายหาดทะเล, ริมหาดทะเล เช่น Ich liege gerne am Strand. ฉันชอบนอนเล่นที่ชายหาด
 Straße	(n) |die, pl. Straßen| ถนน, Related: die Gasse 
 Straßenbahn	(n) |die, pl. Straßenbahnen| รถราง
@@ -3122,6 +3158,7 @@ taub	(adj) หูหนวก, Related: gehörlos
 Tausendfuß	(n) |der, pl. Tausendfüße| ตะขาบ
 Tauwetter	(n) |das, nur Sg.| สภาวะที่น้ำแข็งหรือหิมะละลายเป็นน้ำ
 Tauziehen	(n) |das| เกมชักเย่อ
+Taxifahrer	(n ) |der, pl. Taxifahrer| คนขับแท็กซี่ เช่น Kaum jemand weiß, dass Londons Taxifahrer ihre eigenen Mini-Kantinen haben.
 Tee	(n) |der, pl. Tees| ชา
 teeren	(vt) |teerte, hat geteert| ทาน้ำมันดิน, ลาดยางมะตอย เช่น Geteerte Flächen gelten über Wasser bekanntlich als extrem lebensfeindlich.
 teif	(adj) ลึก
@@ -3231,6 +3268,7 @@ ums Leben kommen	(vi) |kam ums Leben, ist ums Leben gekommen| เสียชี
 Umsatz	(n) |der, pl. Umsätze| รายได้สุทธิ, ผลรวมสุทธิ
 Umschlag	(n) |der, pl. Umschläge| ซองที่ปิดผนึกได้ เช่น Briefumschlag ซองจดหมาย, Related: Related: Hülle 
 umständlich	(adj adv) ซับซ้อน, ยุ่งยาก,(งาน)ที่หนัก ต้องใช้ความกำลังและความพยายามเยอะ
+umstritten	(adj) ยังเป็นที่ถกเถียงกันอยู่ เช่น Neubauten in Schweinheim sind umstritten. Bürger fürchten zusätzliche Belastungen durch die Erweiterung des Reha-Zentrums und das "Haus am Stadtwald"., Related: S.fraglich 
 Umwandlung	(n) |die, pl. Umwandlungen| การเปลี่ยนรูป, การแปรรูป, การปฎิรูป, การเปลี่ยนสภาพ 
 Umwelt	(n) |die, nur Sg.| สิ่งแวดล้อม, Related: die Umgebung 
 umziehen	(vi) |zog um, ist umgezogen| เคลื่อนย้าย, ย้ายบ้าน เช่น Seit wann bist du umgezogen? นาย(หรือเธอ)ย้ายบ้านตั้งแต่เมื่อไหร่จ้ะ 
@@ -3250,6 +3288,7 @@ Unkosten	(n) |nur Pl.| รายจ่ายหรือค่าใช้จ่
 Unkraut	(n) |das, pl. Unkräuter| วัชพืช เช่น Unkraut jäten = กำจัดวัชพืช
 Unkraut	(n colloq) |das, pl. Unkräuter| คนที่ทำตัวไม่มีประโยชน์ (ไม่สุภาพ) 
 Unkrautvernichtungsmittel	(n) |das| สารกำจัดวัชพืช
+Unkrautvertilger	(n) |der, pl. Unkrautvertilger| ยาฆ่าหญ้า เช่น Unkrautvertilger soll aus Schweiz verschwinden., Related: S. Unkrautvernichter, 
 unlogisch	(adj adv) ไม่ตรรกะ หรือ ไม่สมเหตุสมผล, Related: S. unnachvollziehbar, A. logisch, nachvollziehbar 
 Unruhe	(n) |die, pl. Unruhen| เหตุการณ์ไม่สงบ  เช่น Bei Unruhen in der usbekischen Stadt Andischan hatten Militärs wahllos in eine Menschenmenge geschossen.
 uns	เรา (กรณีกรรมตรง และ กรรมรอง), Related: wir 
@@ -3397,6 +3436,7 @@ vertikal	(adj) ตั้งฉาก, ที่อยู่ในแนวเห
 Vertreter	(n) |der, pl. Vertreter| ตัวแทน, ผู้แทนบริษัท
 verunglücken	(vi) |verunglückte, ist verunglückt| ประสบอุบัติเหตุ เช่น mit dem Flugzeug tödlich verunglücken ประสบอุบัติเหตุทางเครื่องบินจนถึงตาย
 verursachen	(vt) |verursachte, hat verursacht| ก่อให้เกิด เป็นต้นตอ เช่น Der Verkehr in Bangkok hat die Luftverschmutzung verursacht. การจราจรในกรุงเทพทำให้อากาศเป็นพิษ, Related: führen zu, zur Folge haben, hervorrufen 
+Verwaltungswissenschaft	(n) |die, pl. Verwaltungswissenschaften| ศาสตร์หรือการศึกษาเกี่ยวกับการเมือง นิติศาสตร์และความสัมพันธ์ระหว่างประเทศ
 verwechseln	(vt) |verwechselte, hat verwechselt| แยกความแตกต่างไม่ได้ เช่น Es tut mir leid. Ich habe Sie mit ihrem Bruder verwechselt.  ขอโทษครับ ผมคิดว่าคุณเป็นน้องชายของคุณ
 verwenden	ใช้ | verwendete, verwendet หรือ verwandte, verwandt |
 verwenden	(vt) |verwandte/verwendete, hat verwendet| ใช้ (เป็นคำที่เพราะกว่า benutzen) เช่น Das Gerät darfst du immer verwenden. เธอสามารถใช้เครื่องมือนี้ได้เสมอนะ, Related: S. benutzen, 
@@ -3435,6 +3475,7 @@ von	(prep) |+ D| (เป็นบุพบทแปลได้หลายค�
 von	(prep) |+ D| โดย, ด้วย เช่น Was sind Sie von Beruf? แปลตรงๆ คือ คุณเป็นอะไรโดยอาชีพ = คุณทำงานอะไร
 von	(prep) |+D เสมอ| จาก (สถานที่) เช่น Wir fahren von Bangkok ab. เราขับรถออกจากกรุงเทพกัน 
 von	(prep) |+D บ่งเวลาหรือวันที่| ของ(วันนี้), จาก(วันนี้) เช่น Das Essen ist von heute. อาหารนี่เป็นของวันนี้,  von heute bis morgen จากวันนี้ถึงพรุ่งนี้, vom 27. Oktober bis heute จากวันที่ยี่สิบเจ็ดถึงวันนี้
+von etwas ausgehen	(phrase) เชื่อมันหรือแน่ใจในเรื่องใดเรื่องหนึ่ง เช่น Ich gehe davon aus, dass Peter nicht mit uns mitkommt. ฉันแน่ใจว่าปีเตอร์จะไม่ไปกับเราด้วย
 von Zeit zu Zeit	(phrase) เป็นบางครั้งบางคราว
 vor	ก่อน
 vor	(prep) |+D สถานที่ (เมื่อกริยาไม่ได้บ่งอาการเคลื่อนไหว)| ข้างหน้า, หน้า เช่น Wir treffen uns vor dem Kino. พวกเราเจอกันที่หน้าโรงหนังนะ
@@ -3444,6 +3485,7 @@ vor Kälte zittern	(phrase) หนาวสั่น, สั่นสะท้�
 voraussichtlich	(adj adv) เป็นไปได้สูง เช่น Ich komme voraussichtlich am Wochenende zur Arbeit. ฉันคงมาทำงานวันเสาร์อาทิตย์ค่อนข้างแน่, Related: S. sehr wahrscheinlich, 
 vorbei	ผ่านไป
 Vorbereitungskurs	(n) |der, pl. Vorbereitungskurse| วิชาหรือหลักสูตรปูพื้นฐานความรู้ก่อนเข้าเรียนในสาขาใดๆ
+Vorgabe	(n) |die, pl. Vorgaben| กฎระเบียบ เช่น Nun wurde eine neue Vorgabe definiert: Bis Ende des Jahres 2010 soll noch einmal rund eine halbe Milliarde Kilogramm elektronischer Geräte und Druckpatronen zurückgenommen und dem Recycling zugeführt werden.
 vorgehen	(vi) |geht vor, ging vor, ist vorgegangen, gegen etw.| ดำเนินการ, กระทำการ, กระทำต่อไป, ปฏิบัติ เช่น disziplinarisch gegen jmdn. vorgehen ดำเนินการตามระเบียบวินัยต่อต้านคนใดคนหนึ่ง
 Vorhangschiene	(n) |die, pl. Vorhangschienen| รางม่าน
 Vorhersage	(n) |die, pl. Vorhersagen| การพยากรณ์ล่วงหน้า
@@ -3514,6 +3556,7 @@ Weg	(n) |der, pl. Wege| เส้นทาง, Related: die Route
 weg	(adv) ไกลๆ พ้นๆ เช่น Geh weg! ไปพ้นๆ หรือแปลว่า ออกไปข้างนอก เช่น Sie ist schon weg.
 Weg	(n) |der, pl. Wege| ถนนเส้นเล็กๆ, ซอย, Related: die Gasse 
 wegen	ด้วยเหตุเพราะว่า, เนื่องจากว่า
+Wegwerfmentalität	(n) |die| ทัศนคติหรือความคิดของมนุษ์ในการทิ้งของหรือวัตถุที่ยังสามารถใช้การได้ เช่น Mehrere Schweizer Städte und Gemeinden wollen der zunehmenden Wegwerfmentalität entgegenwirken.
 Weihnachtskarte	(n) |die, pl. Weihnachtskarten| บัตรอวยพรวันคริสต์มาส
 Weihnachtsmann	(n) |der, pl. Weihnachtsmänner| ซานตาคลอส
 Weihnachtsmarkt	(n) |der, pl. Weihnachtsmärkte| ตลาดขายของคริสต์มาส เกือบทุกเมืองในเยอรมนีจัดขึ้นทุกปีช่วง 4 อาทิตย์ ก่อนวันคริสต์มาส
@@ -3528,6 +3571,7 @@ weitere	, Related: weiter
 weiteren	, Related: weiter 
 weiterhin	ต่อจากนั้น, เลยจากนั้น
 weiterleiten	(vt) |leitet weiter, leitete weiter, hat weitergeleitet, etw.(A)| ส่งต่อ(อีเมล, ข่าว, ข้อมูล), โอนสาย(โทรศัพท์) เช่น Telefonate weiterleiten โอนสายโทรศัพท์
+Weizen	(n ) |der, nur Sg.| ข้าวสาลี เช่น Weizen ist das am häufigsten angebaute Getreide der Welt.
 weiß	สีขาว
 weiß	(adj) ที่มีสีขาว
 Weißkohl	(n) |der| กะหล่ำปี 
@@ -3600,6 +3644,7 @@ Wirbelsäule	|die, pl. Wirbelsäulen| กระดูกสันหลัง
 wird	กลายเป็น (กรณีเป็นกริยาแท้), Related: werden 
 wird	จะ- (กรณีเป็นกริยาช่วย), Related: werden 
 wirklich	จริงๆ, อย่างแท้จริง
+Wirklichkeit	(n ) |die, nur Sg.| ความเป็นจริง ความจริง เช่น Warum ist das eigene Gesicht, im Spiegel betrachtet, nur halb so groß wie in Wirklichkeit zu sehen?, Related: S. die Realität,  
 Wirtschaft	(n) |die, nur Sg.| เศรษฐกิจ เช่น eine blühende Wirtschaft
 Wirtschaft	(n) |die, pl. Wirtschaften| ร้านอาหารกึ่งบาร์มีแอลกอฮอล์ขาย
 wirtschaften	(vi) |wirtschaftete, hat gewirtschaftet| มีการวางแผนการใช้เงินอย่างรอบคอบ, ประหยัด, รู้จักอดออม
@@ -3620,6 +3665,7 @@ wöchentlich	(adj adv) (โดย)ทุกอาทิตย์ เช่น Er
 wohl	คงจะเช่นนั้น
 wohl	ดี
 Wohlbefinden	(n) |das, nur Sg.| ความสุขสบาย
+wohlhabend	(adj) ที่เจริญรุ่งเรือง, ที่ร่ำรวย เช่น die wohlhabenden Staaten ประเทศที่เจริญแล้ว
 wohnen	(vi) |wohnte, hat gewohnt| อยู่ อาศัย, Related: bleiben 
 wohnen	(vi) |wohnte, hat gewohnt| อยู่ อาศัย เช่น Ich habe immer bei meinen Eltern gewohnt. ฉันอยู่กับพ่อแม่เสมอ, Related: bleiben 
 Wohnort	(n) |der| สถานที่พักหรือพำนักอยู่, Related: der Wohnsitz 
@@ -3687,6 +3733,7 @@ Zeiten	(n) |pl.|, Related: Zeit
 zeitig	(adj) เช้า (เร็ว) เช่น มาเช้า ไม่ได้หมายถึงเวลาเช้ารุ่งสาง, Related: früh 
 Zeitschrift	(n) |die, pl. Zeitschriften| นิตยสาร, Related: S. Magazin, 
 Zeitung	(n) |die, pl. Zeitungen| หนังสือพิมพ์
+Zellprobe	(n) |die, pl. Zellproben| ตัวอย่างเซลล์ ตัวอย่างเนื้อเยื่อ เช่น Die erhaltene Zellprobe wird in einem Labor eingefärbt und von Spezialisten (Zytologen) unter dem Mikroskop begutachtet. 
 Zentrum	(n) |das, pl. Zentren| จุดศูนย์กลาง, ใจกลางเมือง  
 zerdrücken	(vt) |zerdrückte, hat zerdrückt| บด ขยี้ กดให้แบน
 zerreißen	(vt) |zerriss, hat zerrissen, etw.(A)/jmdn.| ฉีก, ทำให้เป็นชิ้นๆ เช่น Der Vermieter hat unseren Mietvertrag zerrissen. เจ้าของบ้านเช่าฉีกสัญญาเช่าของเราขาดเป็นชิ้นๆ, Related: Related: zerstören 

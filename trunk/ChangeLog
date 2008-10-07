@@ -1,3 +1,8 @@
+2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* Makefile.am, +longdo_others.txt: Add new 'others' dict.
+	* longdo_{de,en,fr,jp}_th.txt: Updated.
+
 2008-04-09  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* Makefile.am: Add update-data target to fetch latest data.
