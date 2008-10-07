@@ -37,7 +37,7 @@ SUFFIXES = .txt .c5 .dict .dict.dz
 longdo_de_th.dict.dz: $(srcdir)/longdo.info longdo_de_th.c5
 	cat $^ | \
 	  $(DICTFMT) -c5 \
-	  -u http://dict.longdo.org/data/longdo_de_th.txt \
+	  -u http://dict.longdo.com/data/longdo_de_th.txt \
 	  -s "Longdo German-Thai Dictionary" --without-info \
 	  --allchars --utf8 longdo_de_th
 	$(DICTZIP) longdo_de_th.dict
@@ -45,7 +45,7 @@ longdo_de_th.dict.dz: $(srcdir)/longdo.info longdo_de_th.c5
 longdo_en_th.dict.dz: $(srcdir)/longdo.info longdo_en_th.c5
 	cat $^ | \
 	  $(DICTFMT) -c5 \
-	  -u http://dict.longdo.org/data/longdo_en_th.txt \
+	  -u http://dict.longdo.com/data/longdo_en_th.txt \
 	  -s "Longdo English-Thai Dictionary" --without-info \
 	  --allchars --utf8 longdo_en_th
 	$(DICTZIP) longdo_en_th.dict
@@ -53,7 +53,7 @@ longdo_en_th.dict.dz: $(srcdir)/longdo.info longdo_en_th.c5
 longdo_fr_th.dict.dz: $(srcdir)/longdo.info longdo_fr_th.c5
 	cat $^ | \
 	  $(DICTFMT) -c5 \
-	  -u http://dict.longdo.org/data/longdo_fr_th.txt \
+	  -u http://dict.longdo.com/data/longdo_fr_th.txt \
 	  -s "Longdo French-Thai Dictionary" --without-info \
 	  --allchars --utf8 longdo_fr_th
 	$(DICTZIP) longdo_fr_th.dict
@@ -61,7 +61,7 @@ longdo_fr_th.dict.dz: $(srcdir)/longdo.info longdo_fr_th.c5
 longdo_jp_th.dict.dz: $(srcdir)/longdo.info longdo_jp_th.c5
 	cat $^ | \
 	  $(DICTFMT) -c5 \
-	  -u http://dict.longdo.org/data/longdo_jp_th.txt \
+	  -u http://dict.longdo.com/data/longdo_jp_th.txt \
 	  -s "Longdo Japanese-Thai Dictionary" --without-info \
 	  --allchars --utf8 longdo_jp_th
 	$(DICTZIP) longdo_jp_th.dict
@@ -69,7 +69,7 @@ longdo_jp_th.dict.dz: $(srcdir)/longdo.info longdo_jp_th.c5
 longdo_others.dict.dz: $(srcdir)/longdo.info longdo_others.c5
 	cat $^ | \
 	  $(DICTFMT) -c5 \
-	  -u http://dict.longdo.org/data/longdo_others.txt \
+	  -u http://dict.longdo.com/data/longdo_others.txt \
 	  -s "Other Longdo Dictionaries" --without-info \
 	  --allchars --utf8 longdo_others
 	$(DICTZIP) longdo_others.dict
