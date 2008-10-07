@@ -1,5 +1,9 @@
 2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* Makefile.am: Update some longdo.org URLs to longdo.com.
+
+2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* Makefile.am, +longdo_others.txt: Add new 'others' dict.
 	* longdo_{de,en,fr,jp}_th.txt: Updated.
 
