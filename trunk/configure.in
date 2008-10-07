@@ -9,8 +9,9 @@ AC_PROG_LN_S
 AC_PROG_MAKE_SET
 
 AC_ARG_WITH(dictdatadir,
-    [  --with-dictdatadir=DIR       dictionary data directory in DIR [PREFIX/lib/dict]],
-    [dictdatadir="$withval"], [dictdatadir=\$\{prefix\}/lib/dict])
+    [AC_HELP_STRING([--with-dictdatadir=DIR],
+                    [dictionary data directory in DIR [DATADIR]])],
+    [dictdatadir="$withval"], [dictdatadir=\$\{datadir\}])
 
 AC_SUBST(dictdatadir)
 

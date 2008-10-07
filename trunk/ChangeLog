@@ -1,5 +1,10 @@
 2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* configure.in: Use ${datadir} as default dictionary dir, as per
+	upstream dictd. Format help string with AC_HELP_STRING.
+
+2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* Makefile.am: Update some longdo.org URLs to longdo.com.
 
 2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
