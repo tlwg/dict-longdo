@@ -1,3 +1,15 @@
+2009-12-30  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	Add conditional build for stardict data if stardict-tools subprogram
+	is found, which is quite Debian-specific for the time being.
+
+	* configure.in:
+	  - Check for 'tabfile' libexec from stardict-tools
+	  - Add --with-stardictdir configure option
+
+	* Makefile.am, +stardict/Makefile.am:
+	  - Add stardict subdir and its make file
+
 2008-10-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* configure.in: Use ${datadir} as default dictionary dir, as per

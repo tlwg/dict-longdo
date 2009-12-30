@@ -1,3 +1,5 @@
+SUBDIRS = stardict
+
 LONGDO_SRC = \
 	longdo_de_th.txt	\
 	longdo_en_th.txt	\
