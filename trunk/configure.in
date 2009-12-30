@@ -15,6 +15,13 @@ AC_ARG_WITH(dictdatadir,
 
 AC_SUBST(dictdatadir)
 
+AC_ARG_WITH(stardictdatadir,
+    [AC_HELP_STRING([--with-stardictdatadir=DIR],
+                    [stardict data directory in DIR [PREFIX/share/stardict/dic]])],
+    [stardictdatadir="$withval"], [stardictdatadir=\$\{prefix\}/share/stardict/dic])
+
+AC_SUBST(stardictdatadir)
+
 AC_PATH_PROG(DICTZIP, dictzip, no)
 if test "x$DICTZIP" = "xno"; then
    AC_MSG_ERROR([dictzip is needed])
@@ -27,6 +34,10 @@ if test "x$DICTFMT" = "xno"; then
 fi
 AC_SUBST(DICTFMT)
 
+AC_PATH_PROG(TABFILE, tabfile, no, [/usr/lib/stardict-tools:/usr/local/lib/stardict-tools])
+AM_CONDITIONAL(BUILD_STARDICT, test "x$TABFILE" != "xno")
+
 AC_OUTPUT(	
 	Makefile  \
+	stardict/Makefile  \
 )
