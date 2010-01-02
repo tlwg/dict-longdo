@@ -1,3 +1,7 @@
+2010-01-02  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* longdo_{de,en,fr,jp}_th.txt, longdo_others.txt: Updated.
+
 2009-12-30  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	Add conditional build for stardict data if stardict-tools subprogram

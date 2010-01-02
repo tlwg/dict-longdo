@@ -1,5 +1,25 @@
-4
-ciao [IT]	 [TH] (n ) สวัสดี ลาก่อน
-insalata [IT]	 [TH] (n ) สลัด
-ซอย [TH-NE-N]	 [TH] (vi vt ) ช่วย
-หรอย [TH-SOUTH]	 [TH] (adj ) อร่อย, สนุก
+24
+ciao	 [IT -> TH](n) สวัสดี ลาก่อน
+insalata	 [IT -> TH](n) สลัด
+ข้อย	 [TH-NE-N -> TH](pron) ฉัน (สรรพนามบุรุษที่ 1)
+งึด	 [TH-NE-N -> TH](vi vt) แปลกใจ, พิศวง
+จอบ	 [TH-NE-N -> TH](vi) แอบ, ลอบ
+ซอย	 [TH-NE-N -> TH](vi vt) ช่วย
+บ่	 [TH-NE-N -> TH](adv) ไม่
+มัก	 [TH-NE-N -> TH](vt) ชอบ
+ย่าง	 [TH-NE-N -> TH](vi) เดิน
+ย้าน	 [TH-NE-N -> TH](vi vt) กลัว
+หรอย	 [TH-SOUTH -> TH](adj) อร่อย, สนุก
+อีหยัง	 [TH-NE-N -> TH](pron) อะไร
+ฮัก	 [TH-NORTH -> TH](vt) รัก
+ฮู้	 [TH-NE-N -> TH](vi) รู้
+เจ้า	 [TH-NE-N -> TH](pron) คุณ (สรรพนามบุรุษที่ 2)
+เบิ่ง	 [TH-NE-N -> TH](vt) ดู
+เมี้ยน	 [TH-NE-N -> TH](vt) เก็บ
+เม็ดเลือดขาว	 [TH -> EN]white blood cell
+เว้า	 [TH-NE-N -> TH](vi vt) พูด
+เฮ็ด	 [TH-NE-N -> TH](vt) ทำ
+แขบ	 [TH-SOUTH -> TH](adv) รีบ
+แม่น	 [TH-NE-N -> TH](adv) ใช่
+แม่นบ่	 [TH-NE-N -> TH](phrase) ใช่หรือไม่
+แล่น	 [TH-NE-N -> TH](vi) วิ่ง
